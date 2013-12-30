@@ -15,6 +15,7 @@ During the last weeks I have been using my stealth bomber at [Brave Newbies](htt
 
 Before you fly a bomber you should train the following skills:
 
+{% highlight bash %}
 Racial Frigate V
 Covert Ops IV
 Cloaking IV
@@ -26,6 +27,7 @@ Missile Launcher Operation IV
 Missile Projection IV
 Rapid Launch IV
 Warhead Upgrade IV
+{% endhighlight %}
 
 You will also find those fitting skills very handy:
 
@@ -44,6 +46,7 @@ Before I got into bombers I thought there is only one way to use a stealth bombe
 
 The Siege Bomber is all about dealing DPS to a structure like a POS or a POCO. Fitting wise you should do everything to do as much damage as possible. If you can fit T2 Torp launchers and T2 Rage Torpedos and as many Ballistic Controll II as you can. In the mids you need and AFterburner II. If you have the fitting space put utility into the remaining mid slots.
 
+{% highlight bash %}
 [Hound, Hound fit]
 
 Ballistic Control System II
@@ -62,6 +65,7 @@ Bomb Launcher I, Shrapnel Bomb
 
 Small Processor Overclocking Unit I
 Small Processor Overclocking Unit I
+{% endhighlight %}
 
 This is the fit I use, please note that the Bomb Launcher I is offlined, otherwise it would not work.
 
@@ -93,6 +97,7 @@ As you can see the recipe is very simple:
 
 A brawling bomber has no need for bombs even fitting an offlined bomb launcher would be waste of ressources. Current BNI doctrine for this is to fit a Medium Shield Extender in the mid, which I am not fully convinced, because i do not think that this extender matters much. But again I am just a newb following orders:) 
 
+{% highlight bash %}
 [Hound, Brawling]
 
 Ballistic Control System II
@@ -111,6 +116,7 @@ Covert Ops Cloaking Device II
 
 Small Processor Overclocking Unit I
 Small Processor Overclocking Unit I
+{% endhighlight %}
 
 Yes, I am fitting a railgun, just because I can:)
 
@@ -124,6 +130,7 @@ Once your bomb is launched it travels 30km and explodes within a 15km radius. It
 
 Fitting a bombing bomber is not very hard. Your most important thing is your Bomb Launcher and your cloak. After that you should focus on agility and tank. I do not like to fit a shield extender here because is just increases your sig radius which means your enemies are able to lock you faster.
 
+{% highlight bash %}
 [Hound, Bombing]
 
 Warp Core Stabilizer II
@@ -142,6 +149,7 @@ Bomb Launcher I, Shrapnel Bomb
 
 Small Low Friction Nozzle Joints I
 Small Low Friction Nozzle Joints I
+{% endhighlight %}
 
 I am using one warp core stabilizer because it has proven as very handy if one of youe enemies get lucky or you fuck up the warp out. On Warp out i hit the cloak and immediately afterwards the invul fields which should be within the same server click. But again that tank does not matter much.
 
