@@ -1,7 +1,8 @@
 ---
 layout: post
-category : A Guide to BNI Bombers
-tagline: "Using deadly paper tanks"
+title : "A Guide to BNI Bombers"
+date: 2013-12-30
+categories: BNI
 tags : [BNI, stealth bombers]
 ---
 {% include JB/setup %}
