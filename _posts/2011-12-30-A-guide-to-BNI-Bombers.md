@@ -36,7 +36,7 @@ I highly reccomend going for Torpedo Specialization IV to be ablte to fit Torped
 
 There is some debate about what's the best stelath bomber. I personally can fly all four of them, but i prefer to use the hound, because of it's versatility, but honestly there is no really bad choice here, so fly what ever racial stealth bomber you like and can fit.
 
-## Different types of running stelth bombers
+## Different types of running stealth bombers
 
 Before I got into bombers I thought there is only one way to use a stealth bomber whic is launching a bomb toward a target and get the hell out. Of course I am newb and di not know better it turns out there are at least three different uses cases for stealth bombers.
 
@@ -151,4 +151,4 @@ When ever you can cloak up. It should become a habit. *Cloak up and hit warp. Cl
 
 This is my view on running bombers within Brave Newbies. It currently the vessel i like the most and have the most fun with it. I happy to discuss and correct any mistakes I made. You can contact me (shrinkie) in game or simply comment here. 
 
-If your want to dig deeper into Bombing I highly reccomend these three tutorials by Bomber's Bar [Stealth Bombers 101](http://www.griefedgaming.com/?p=34), [Stealth Bombers 102: Intro to Bmobing](http://www.griefedgaming.com/?p=66) and [Stealth Bombers 103: Advanced Bombing](http://www.griefedgaming.com/?p=96)
+If your want to dig deeper into Bombing I highly reccomend these three tutorials by Bomber's Bar [Stealth Bombers 101](http://www.griefedgaming.com/?p=34), [Stealth Bombers 102: Intro to Bmobing](http://www.griefedgaming.com/?p=66) and [Stealth Bombers 103: Advanced Bombing](http://www.griefedgaming.com/?p=96).
