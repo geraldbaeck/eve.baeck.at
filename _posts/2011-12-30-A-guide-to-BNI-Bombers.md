@@ -144,4 +144,10 @@ Small Low Friction Nozzle Joints I
 
 I am using one warp core stabilizer because it has proven as very handy if one of youe enemies get lucky or you fuck up the warp out. On Warp out i hit the cloak and immediately afterwards the invul fields which should be within the same server click. But again that tank does not matter much.
 
+## A final note on cloaking
+
+When ever you can cloak up. It should become a habit. *Cloak up and hit warp. Cloak up and hit warp. Cloak up and hit warp.* Do it in this order, make sure you are cloaked before you warp. If you are running in bomber fleet it only takes one uncloaked ship to decloak all his mates and turn the ops into a desaster. Surely this will happen and newbs make a lot of mistakes but it is always nicer to forgive that to ask for forgiveness:)
+
 This is my view on running bombers within Brave Newbies. It currently the vessel i like the most and have the most fun with it. I happy to discuss and correct any mistakes I made. You can contact me (shrinkie) in game or simply comment here. 
+
+If your want to dig deeper into Bombing I highly reccomend these three tutorials by Bomber's Bar [Stealth Bombers 101](http://www.griefedgaming.com/?p=34), [Stealth Bombers 102: Intro to Bmobing](http://www.griefedgaming.com/?p=66) and [Stealth Bombers 103: Advanced Bombing](http://www.griefedgaming.com/?p=96)
