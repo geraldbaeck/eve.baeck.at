@@ -3,7 +3,7 @@ layout: post
 title : "A Guide to BNI Bombers"
 date: 2013-12-30
 categories: BNI
-tags : [BNI, stealth bombers]
+tags : BNI stealth bombers
 ---
 {% include JB/setup %}
 
