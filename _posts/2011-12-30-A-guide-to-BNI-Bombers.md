@@ -36,11 +36,11 @@ Power Grid Management
 
 I highly recommend going for Torpedo Specialization IV to be able to fit Torpedo Launcher II because they simply do more DPS and the T2 ammo is cheaper. After that you should go for the missile support skills to V.
 
-There is some debate about what's the best stealth bomber. I can fly all four of them, but i prefer to use the hound, because of it's versatility, but honestly there is no really bad choice here, so fly what ever racial stealth bomber you like and can fit.
+There is some debate about what's the best stealth bomber. I can fly all four of them, but I prefer to use the hound, because of it's versatility, but honestly there is no really bad choice here, so fly what ever racial stealth bomber you like and can fit.
 
 ## Different types of running stealth bombers
 
-Before I got into bombers I thought there is only one way to use a stealth bomber which is launching a bomb toward a target and get the hell out. Of course I am newb and di not know better it turns out there are at least three different uses cases for stealth bombers.
+Before I got into bombers I thought there is only one way to use a stealth bomber which is launching a bomb towards a target and get the hell out. Of course I am newb and di not know better it turns out there are at least three different uses cases for stealth bombers.
 
 ### The Siege Bomber
 
@@ -95,7 +95,7 @@ As you can see the recipe is very simple:
 - Align to a celestial or orbit anchor
 - Follow the FCs orders
 
-A brawling bomber has no need for bombs even fitting an offlined bomb launcher would be waste of resources. Current BNI doctrine for this is to fit a Medium Shield Extender in the mid, which I am not fully convinced, because i do not think that this extender matters much. But again I am just a newb following orders:) 
+A brawling bomber has no need for bombs even fitting an offlined bomb launcher would be waste of resources. Current BNI doctrine for this is to fit a Medium Shield Extender in the mid, which I am not fully convinced, because I do not think that this extender matters much. But again I am just a newb following orders:) 
 
 {% highlight bash %}
 [Hound, Brawling]
@@ -151,12 +151,12 @@ Small Low Friction Nozzle Joints I
 Small Low Friction Nozzle Joints I
 {% endhighlight %}
 
-I am using one warp core stabilizer because it has proven as very handy if one of your enemies gets lucky or you fuck up the warp out. On Warp out i hit the cloak and immediately afterwards the invul fields which should be within the same server click. But again that tank does not matter much.
+I am using one warp core stabilizer because it has proven as very handy if one of your enemies gets lucky or you fuck up the warp out. On Warp out I hit the cloak and immediately afterwards the invul fields which should be within the same server click. But again that tank does not matter much.
 
 ## A final note on cloaking
 
 When ever you can cloak up. It should become a habit. *Cloak up and hit warp. Cloak up and hit warp. Cloak up and hit warp.* Do it in this order, make sure you are cloaked before you warp. If you are running in bomber fleet it only takes one uncloaked ship to decloak all his mates and turn the ops into a disaster. Surely this will happen and newbs make a lot of mistakes but it is always nicer to forgive that to ask for forgiveness:)
 
-This is my view on running bombers within Brave Newbies. It currently the vessel i like the most and have the most fun with it. I happy to discuss and correct any mistakes I made. You can contact me (shrinkie) in game or simply comment here. 
+This is my view on running bombers within Brave Newbies. It currently the vessel I like the most and have the most fun with it. I happy to discuss and correct any mistakes I made. You can contact me (<a href="#" onclick="CCPEVE.showInfo(1377, 849426184)">shrinkie</a>) in game or simply comment here. 
 
 If your want to dig deeper into Bombing I highly recommend these three tutorials by Bomber's Bar [Stealth Bombers 101](http://www.griefedgaming.com/?p=34), [Stealth Bombers 102: Intro to Bombing](http://www.griefedgaming.com/?p=66) and [Stealth Bombers 103: Advanced Bombing](http://www.griefedgaming.com/?p=96).
