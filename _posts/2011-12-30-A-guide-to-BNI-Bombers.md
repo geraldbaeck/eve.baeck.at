@@ -9,13 +9,13 @@ tags : BNI stealth bombers
 
 During the last weeks I used my stealth bomber at [Brave Newbies](http://www.reddit.com/r/Bravenewbies) a lot and it was the most fun ship to fly. But flying a bomber is very different to flying other ships at eve. While it is not really hard, you should know a thing or two before hoping into a bomber or just do it newb style.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TJ3JRhJ2vSw?rel=0" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/TJ3JRhJ2vSw?rel=0" frameborder="0" allowfullscreen="allowfullscreen" style="margin-bottom:20px;" > </iframe>
 
 ## Needed Skills
 
 Before you fly a bomber you should train the following skills:
 
-{% highlight bash %}
+{% highlight text %}
 Racial Frigate V
 Covert Ops IV
 Cloaking IV
@@ -31,8 +31,10 @@ Warhead Upgrade IV
 
 You will also find those fitting skills very handy:
 
+{% highlight text %}
 CPU Management
-Power Grid Management 
+Power Grid Management
+{% endhighlight %}
 
 I highly recommend going for Torpedo Specialization IV to be able to fit Torpedo Launcher II because they simply do more DPS and the T2 ammo is cheaper. After that you should go for the missile support skills to V.
 
@@ -46,7 +48,7 @@ Before I got into bombers I thought there is only one way to use a stealth bombe
 
 The Siege Bomber is all about dealing DPS to a structure like a POS or a POCO. Fitting wise you should do everything to do as much damage as possible. If you can fit T2 Torp launchers and T2 Rage Torpedos and as many Ballistic Controll II as you can. In the mids you need and AFterburner II. If you have the fitting space put utility into the remaining mid slots.
 
-{% highlight bash %}
+{% highlight text %}
 [Hound, Hound fit]
 
 Ballistic Control System II
@@ -83,7 +85,7 @@ If an enemy shows up just cloak and eventually warp out. If your squad leader is
 
 This was very new to me. Usually the brawling bomber is used with a covert cyno and a Black Ops Battleship. Meaning one guy lights a covert cyno near the enemy and the Black Ops brigdes the bomber fleet to the action. Unfortunately I do not know anything about covert cyno and Black Ops ships but the FC shouts "TAKE THE BRIDGE" right click that Black Ops in space and hit the jump to something option. You will now jump directly into the action. On Landing immediately click in space and hit your prop mod to get some transversal, it is your only tank. After that just follow the FCs primaries not like me in that [video](https://www.youtube.com/watch?v=Vv7oZGnfCcU).
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vv7oZGnfCcU?rel=0" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Vv7oZGnfCcU?rel=0" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
 
 As you can see the recipe is very simple:
 - Take the bridge via the Black Ops
@@ -97,7 +99,7 @@ As you can see the recipe is very simple:
 
 A brawling bomber has no need for bombs even fitting an offlined bomb launcher would be waste of resources. Current BNI doctrine for this is to fit a Medium Shield Extender in the mid, which I am not fully convinced, because I do not think that this extender matters much. But again I am just a newb following orders:) 
 
-{% highlight bash %}
+{% highlight text %}
 [Hound, Brawling]
 
 Ballistic Control System II
@@ -130,7 +132,7 @@ Once your bomb is launched it travels 30km and explodes within a 15km radius. It
 
 Fitting a bombing bomber is not very hard. Your most important thing is your Bomb Launcher and your cloak. After that you should focus on agility and tank. I do not like to fit a shield extender here because is just increases your sig radius which means your enemies are able to lock you faster.
 
-{% highlight bash %}
+{% highlight text %}
 [Hound, Bombing]
 
 Warp Core Stabilizer II
