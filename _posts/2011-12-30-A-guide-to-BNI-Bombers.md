@@ -157,6 +157,6 @@ I am using one warp core stabilizer because it has proven as very handy if one o
 
 When ever you can cloak up. It should become a habit. *Cloak up and hit warp. Cloak up and hit warp. Cloak up and hit warp.* Do it in this order, make sure you are cloaked before you warp. If you are running in bomber fleet it only takes one uncloaked ship to decloak all his mates and turn the ops into a disaster. Surely this will happen and newbs make a lot of mistakes but it is always nicer to forgive that to ask for forgiveness:)
 
-This is my view on running bombers within Brave Newbies. It currently the vessel I like the most and have the most fun with it. I happy to discuss and correct any mistakes I made. You can contact me (<a href="#" onclick="CCPEVE.showInfo(1377, 849426184)">shrinkie</a>) in game or simply comment here. 
+This is my view on running bombers within Brave Newbies. It currently the vessel I like the most and have the most fun with it. I happy to discuss and correct any mistakes I made. You can contact me (<a href="#" onclick="CCPEVE.showInfo(1377, 849426184)" class="evelink">shrinkie</a>) in game or simply comment here. 
 
 If your want to dig deeper into Bombing I highly recommend these three tutorials by Bomber's Bar [Stealth Bombers 101](http://www.griefedgaming.com/?p=34), [Stealth Bombers 102: Intro to Bombing](http://www.griefedgaming.com/?p=66) and [Stealth Bombers 103: Advanced Bombing](http://www.griefedgaming.com/?p=96).
