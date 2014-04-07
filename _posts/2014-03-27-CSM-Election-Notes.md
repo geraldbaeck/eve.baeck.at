@@ -1,6 +1,6 @@
 ---
 layout: post
-title : "A Guide to BNI Bombers"
+title : "CSM Election notes"
 date: 2013-12-30
 categories: BNI
 tags : BNI stealth bombers
