@@ -24,13 +24,13 @@ Wormholer, who was in E-Uni, which is nice. Did not seem that prepared.
 #[Azami Nevinyrall](http://capstable.net/2014/03/07/csm9azaminevinyrall/)
 It does not seem to me that he is taking to seriously. He does not like afk cloaking, I do. GRRR goon pets
 
-#[~~BadAssMcKill~~](http://capstable.net/2014/03/08/csm9-candidate-interview-badassmckill/)
+#[<del>BadAssMcKill</del>](http://capstable.net/2014/03/08/csm9-candidate-interview-badassmckill/)
 He asked StupidGenius about specifics, because he is bad at it. Next time prepare plz.
 
 #[Corbexx](http://www.capstable.net/2014/03/29/csm9-candidate-interview-corbexx/)
 Another wormhole, seems ok, but his concerns about the game are not really mine.
 
-#[~~Draleth~~](http://capstable.net/2014/03/08/csm9draleth/)
+#[<del>Draleth</del>](http://capstable.net/2014/03/08/csm9draleth/)
 Very intelligent guy. It is a shame that he is not running anymore. But this interview convinced me, that is not the guy everyone is demonizing right now within BNI.
 
 #[DJ Funkybacon](http://capstable.net/2014/03/09/csm9djfunkybacon/)
@@ -63,13 +63,13 @@ Independend high sec guy. Vote for him.
 #[Mynna](http://www.capstable.net/2014/03/25/csm9mynnna/)
 It was fun to hear him struggling by Hoots questions. Evil Goon Mastermind. GRRRRR
 
-#[~~Proclus Diadochu~~](http://capstable.net/2014/03/12/csm9-candidate-interview-proclus-diadochu/)
+#[<del>Proclus Diadochu</del>](http://capstable.net/2014/03/12/csm9-candidate-interview-proclus-diadochu/)
 Considering myself a passionate troll, I like this guy.
 
 #[prodolegend](http://www.capstable.net/2014/04/02/csm9-candidate-interview-progodlegend/)
 The Nulli Secunda candidate, who happens to be also an FC. He has my vote.
 
-#[~~Psianh Auvyander~~](http://www.capstable.net/2014/03/18/csm9psianhauvyander/)
+#[<del>Psianh Auvyander</del>](http://www.capstable.net/2014/03/18/csm9psianhauvyander/)
 He is against TiDi. yipieee. Besides that he seems to be a very intelligent guy asking the right questions. Also he does not seem to be affiliated with any powerblock. He had some very nice ideas to improve sov (building upwards).
 
 #[Psychotic Monk](http://capstable.net/2014/03/11/csm9-candidate-interview-psychotic-monk/)
@@ -78,7 +78,7 @@ High Sec guy who likes to wardec and considers himself as a space criminal. Whic
 #[Riverini](http://www.capstable.net/2014/03/31/csm9riverini/)
 I like this guy. He seems resonable and has some nice ideas around sov null and renting. Definately not Goons too.
 
-#[~~Roland Cassidy~~](http://capstable.net/2014/03/13/csm9rolandcassidy/)
+#[<del>Roland Cassidy</del>](http://capstable.net/2014/03/13/csm9rolandcassidy/)
 Did not get approved. So I do not bother.
 
 #[Sion Kumitono](http://www.capstable.net/2014/03/26/csm9sionkumitomo/)
